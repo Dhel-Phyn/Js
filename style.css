@@ -93,6 +93,6 @@ h2{
   visibility: hidden;
 }
 
-.form-control.error input{
+.form-control.error small{
   visibility: visible;
 }
